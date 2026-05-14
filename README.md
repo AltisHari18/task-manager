@@ -173,7 +173,7 @@ http://localhost:5173
 Add screenshot here.
 
 ```md
-<img width="1912" height="1073" alt="image" src="https://github.com/user-attachments/assets/779afe1e-2fff-472e-a371-47386c489604" />
+/images/login.png
 
 ```
 
@@ -184,7 +184,7 @@ Add screenshot here.
 Add screenshot here.
 
 ```md
-<img width="1915" height="1077" alt="image" src="https://github.com/user-attachments/assets/dea440a9-bbbf-4801-bd03-5d2a853dca9b" />
+/images/register.png
 
 ```
 
@@ -195,7 +195,7 @@ Add screenshot here.
 Add screenshot here.
 
 ```md
-<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/4b774da8-85a9-4a65-8103-8e83025d691f" />
+/images/dash.png
 
 ```
 
@@ -206,7 +206,7 @@ Add screenshot here.
 Add screenshot here.
 
 ```md
-<img width="1917" height="1074" alt="image" src="https://github.com/user-attachments/assets/197e755b-0697-4c39-99d1-8d1b491dd57e" />
+/images/taskCreation.png
 
 ```
 
