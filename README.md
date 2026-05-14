@@ -183,29 +183,29 @@ http://localhost:5173
 
 
 
+![Login Page](./images/register.png)
 
-./images/register.png
 
 
 
 ---
 
 ## Dashboard
+![Login Page](./images/dash.png)
 
 
 
-./images/dash.png
 
 
 
 ---
 
 ## Task Creation
+![Login Page](./images/taskCreation.png)
 
 
 
 
-./images/taskCreation.png
 
 
 
