@@ -173,7 +173,7 @@ http://localhost:5173
 
 
 
-./images/login.png
+(./images/login.png)
 
 
 
