@@ -173,7 +173,7 @@ http://localhost:5173
 Add screenshot here.
 
 ```md
-/images/login.png
+./images/login.png
 
 ```
 
@@ -184,7 +184,7 @@ Add screenshot here.
 Add screenshot here.
 
 ```md
-/images/register.png
+./images/register.png
 
 ```
 
@@ -195,7 +195,7 @@ Add screenshot here.
 Add screenshot here.
 
 ```md
-/images/dash.png
+./images/dash.png
 
 ```
 
@@ -206,7 +206,7 @@ Add screenshot here.
 Add screenshot here.
 
 ```md
-/images/taskCreation.png
+./images/taskCreation.png
 
 ```
 
