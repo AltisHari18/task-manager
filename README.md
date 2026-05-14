@@ -170,45 +170,44 @@ http://localhost:5173
 
 ## Login Page
 
-Add screenshot here.
 
-```md
+
+
 ./images/login.png
 
-```
+
 
 ---
 
 ## Register Page
 
-Add screenshot here.
 
-```md
+
+
 ./images/register.png
 
-```
+
 
 ---
 
 ## Dashboard
 
-Add screenshot here.
 
-```md
+
 ./images/dash.png
 
-```
+
 
 ---
 
 ## Task Creation
 
-Add screenshot here.
 
-```md
+
+
 ./images/taskCreation.png
 
-```
+
 
 ---
 
